@@ -1,0 +1,6 @@
+{
+  "name": "SneakerFreaks",
+  "description": "Retro-style sneaker catalog and collection manager for enthusiasts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
