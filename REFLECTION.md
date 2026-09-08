@@ -1,3 +1,5 @@
+## Kartik Surugucchi
+
 ### Q1. Who are your users, and what changes for them?
 
 The users I had in mind for SneakerFreaks are male and female sneaker fans between the ages of 18 and 35, mainly in the United States but also potentially anywhere in the world. Some may be collectors, while others may just really like retro style sneakers and want to keep track of pairs they are interested in. Normally, they would have to look through different sneaker websites, open several pages, compare things like the name, colorway, release year, price, and availability, and then remember which pairs they liked or save them somewhere else.
